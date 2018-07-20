@@ -6,17 +6,17 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-BounceMatrix	 KEYWORD1
+BounceMatrix	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-update	 KEYWORD2
-interval	 KEYWORD2
-read	 KEYWORD2
-write	 KEYWORD2
-rebounce	 KEYWORD2
+update	KEYWORD2
+interval	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
+rebounce	KEYWORD2
 risingEdge	KEYWORD2
 fallingEdge	KEYWORD2
 
